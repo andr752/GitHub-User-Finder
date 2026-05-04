@@ -9,5 +9,5 @@ markdown
 Что нужно установить на компьютер: - Python 3.10 или выше - Библиотеки: `pip install matplotlib requests` --- 
 ## Как запустить 
 ```bash 
-git clone https://github.com/andr752/GitHub User Finder.git 
+git clone https://github.com/andr752/GitHub-User-Finder.git 
 python main.py
